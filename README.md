@@ -1,1 +1,1 @@
-# midtern
+# midterm
